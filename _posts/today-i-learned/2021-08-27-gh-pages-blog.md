@@ -22,7 +22,8 @@ Ok, this was a little bit more work, because I had to learn what Jekyll did and 
 1. Go ahead and clone the repo you made, assuming you haven't already. 
 2. In your repo, create a `_posts` folder at the top level.
 3. I added folders to contain the major categories I knew we would be blogging about, just to get started. Something like this:
-```md
+
+```plaintext
 _posts
     - front-end
         - accessibility
