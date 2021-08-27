@@ -2,7 +2,7 @@
 layout: post
 title:  "TIL: How to set up a Blog in 30 minutes"
 tags: blogging
-author: Jessica
+author: Jessica Keener
 ---
 
 # TIL How to set up a Blog in 30 minutes
