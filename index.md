@@ -1,5 +1,4 @@
 ---
-layout: home
 title:  "A (mostly) Tech blog from the Keeners"
 ---
 
