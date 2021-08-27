@@ -55,7 +55,7 @@ I figured I should go ahead and get the assets set up so we don't have to figure
 
 It recommends creating a `assets/` folder at the top level, and linking as usual. Let's try it!
 
-![All Might Thumbs Up!](assets/images/allmight-thumbsup.png)
+![All Might Thumbs Up!](/assets/images/allmight-thumbsup.png)
 
 ## More
 
