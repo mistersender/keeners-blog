@@ -5,8 +5,6 @@ tags: blogging
 author: Jessica Keener
 ---
 
-# TIL How to set up a Blog in 30 minutes
-
 It really was ridiculously easy. Even though yes, I am a frontend engineer, I did not want to spent hours creating a nice custom blog, I just wanted to get to typing! Austin was suspicious I could accomplish a full-on blog as quickly as I thought, so I was out to prove a point more than anything else. Here's how it goes:
 
 ## Creating the Blog
