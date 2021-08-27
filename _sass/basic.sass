@@ -34,8 +34,13 @@ a
 header a, footer a, aside a
   color: inherit
 
-header time
+header time, header .kb-author
   color: reduce(100)
+
+header .kb-author:before
+  color: reduce(100)
+  content: "\2022"
+  padding: 0 10px
 
 hr
   border: 1px solid reduce(30)
