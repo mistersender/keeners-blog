@@ -18,10 +18,12 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
   - {file: "about.md"}
+  - {file: "archive.html"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:triadwebcrafters@gmail.com"}
-  - {title: Github, icon: github, url: "https://github.com/mistersender"}
+  # - {title: Mail, icon: envelope, url: "mailto:triadwebcrafters@gmail.com"}
+  - {title: "Jessica's Github", icon: github, url: "https://github.com/mistersender"}
+  - {title: "Austin's Github", icon: github, url: "https://github.com/dv8fromtheworld"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
